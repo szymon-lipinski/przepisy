@@ -10,8 +10,8 @@
     1 łyżeczka słodkiej papryki
     1 łyżka mąki
     1 łyżeczka cukru
-    pieprz
-    tymianek
+    0.5 łyżeczki pieprzu
+    1 łyżeczka suzonego tymianku
     1 bułka pszenna
     100 g żółtego sera
 
