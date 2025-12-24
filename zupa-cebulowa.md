@@ -31,6 +31,3 @@
 - Ser zetrzyj na tarce o grubych oczkach.
 - Bułkę pszenną pokrój w 1 cm kostkę podsmaż na 25 g masła, aż zrobi się chrupiąca.
 - Gotową zupę podawaj grzankami i posyp żółtym serem.
-
-### Źródło
-https://www.codogara.pl/5254/zupa-cebulowa/
